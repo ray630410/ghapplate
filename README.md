@@ -4,13 +4,13 @@
 
 The template to instantly create and edit a new web app on your github page.
 
-Based on [webapplate](http://ray630410.github.io/).
+Based on [webapplate](http://webapplate.github.io/).
 
 current version: v2.1.0
 
 ## How it looks
 
-Open http://webapplate.github.io/ghapplate to see the basic looks and feel.
+Open http://ray630410.github.io/ghapplate to see the basic looks and feel.
 
 ![Real welcome page](http://i.imgur.com/8AGwXCG.png)
 
